@@ -32,7 +32,9 @@
    
 ```bash
    pip install customtkinter matplotlib
+```bash
 3. Запустите главный файл:
 
 ```bash
    python app.py
+```bash
